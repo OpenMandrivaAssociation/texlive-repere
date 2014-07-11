@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-repere
 Version:	20140214
-Release:	2
+Release:	3
 Summary:	TeXLive repere package
 Group:		Publishing
 URL:		http://tug.org/texlive

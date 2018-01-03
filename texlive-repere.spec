@@ -1,12 +1,6 @@
-# revision 32455
-# category Package
-# catalog-ctan undef
-# catalog-date undef
-# catalog-license undef
-# catalog-version undef
 Name:		texlive-repere
-Version:	20140214
-Release:	5
+Version:	17.11.2
+Release:	1
 Summary:	TeXLive repere package
 Group:		Publishing
 URL:		http://tug.org/texlive
@@ -31,10 +25,8 @@ TeXLive repere package.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/metapost/repere/repere.mp
-%doc %{_texmfdistdir}/doc/metapost/repere/README
-%doc %{_texmfdistdir}/doc/metapost/repere/repere-doc.pdf
-%doc %{_texmfdistdir}/doc/metapost/repere/repere-doc.tex
+%{_texmfdistdir}/metapost/repere
+%doc %{_texmfdistdir}/doc/metapost/repere
 
 #-----------------------------------------------------------------------
 %prep

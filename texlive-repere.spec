@@ -1,6 +1,6 @@
 Name:		texlive-repere
 Version:	17.11.2
-Release:	1
+Release:	2
 Summary:	TeXLive repere package
 Group:		Publishing
 URL:		http://tug.org/texlive
